@@ -21,5 +21,5 @@
 </p>
 <p align="center">
 <img width="450" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=WojciechCholewinski&" alt="WojciechCholewinski"/>
-<img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=WojciechCholewinski&show_icons=true&locale=en&layout=compact" alt="WojciechCholewinski"/>
+<img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=WojciechCholewinski&locale=en&layout=compact" alt="WojciechCholewinski"/>
 </p>
