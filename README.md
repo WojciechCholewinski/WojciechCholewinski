@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WojciechCholewinski&label=Profile%20views&color=9b4993&style=plastic" alt="WojciechCholewinski" /> </p>
 
 - 🌱 I’m currently learning ASP.NET
-- ☕ one who doesn't like coffee
-- ⚡ fun fuct: i know all the memes
+<!-- ☕ one who doesn't like coffee
+- ⚡ fun fuct: i know all the memes-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
