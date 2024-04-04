@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/adalbertowsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adalbertowsky" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/wojciech-cholewiński" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wojciech-cholewiński" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 <p align="center">
 <img width="450" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=WojciechCholewinski&" alt="WojciechCholewinski"/>
