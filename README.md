@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wojciech</h1>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=WojciechCholewinski&label=Profile%20views&color=9b4993&style=plastic" alt="WojciechCholewinski" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=WojciechCholewinski&label=Profile%20views&color=9b4993&style=plastic" alt="WojciechCholewinski" /> </p>-->
  
 - 🌱 I’m currently learning ASP.NET
 <!-- ☕ one who doesn't like coffee
@@ -19,6 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/adalbertowsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adalbertowsky" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/wojciech-cholewiński" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 <p align="center">
 <img width="450" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=WojciechCholewinski&" alt="WojciechCholewinski"/>
