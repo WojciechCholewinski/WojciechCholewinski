@@ -23,6 +23,48 @@
 <a href="https://www.linkedin.com/in/wojciech-cholewiński" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 <p align="center">
-<img width="450" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=WojciechCholewinski&" alt="WojciechCholewinski"/>
-<img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WojciechCholewinski&layout=compact" alt="WojciechCholewinski"/>
+ 
+<!-- nowa funkcja multimediów w GitHub -->
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=WojciechCholewinski&theme=dark#gh-dark-mode-only"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=WojciechCholewinski"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WojciechCholewinski" width="450" height="200" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WojciechCholewinski&layout=compact&hide=dart&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WojciechCholewinski&layout=compact&hide=dart"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WojciechCholewinski&layout=compact&hide=dart" width="350" height="200" />
+</picture>
+
+<div align="center">
+  <details>
+    <summary>See WakaTime Stats</summary>
+    <div align="center">
+      <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Shteyen&langs_count=3&custom_title=Tracked%20Coding%20Hours%20(Since%20August)&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Shteyen&langs_count=3&custom_title=Tracked%20Coding%20Hours%20(Since%20August)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shteyen&langs_count=3&custom_title=Tracked%20Coding%20Hours%20(Since%20August)" width="450" height="200" />
+</picture>
+    </div>
+  </details>
+</div>
+
 </p>
