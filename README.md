@@ -2,9 +2,13 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=WojciechCholewinski&label=Profile%20views&color=9b4993&style=plastic" alt="WojciechCholewinski" /> </p>-->
  
-🌱 I’m currently learning ASP.NET Core
-<!-- ☕ one who doesn't like coffee
+<!--🌱 I’m currently learning ASP.NET Core
+- ☕ one who doesn't like coffee
 - ⚡ fun fuct: i know all the memes-->
+
+### 🎯 Currently looking for:
+- Internship or junior .NET developer position
+- Remote or Cracow-based opportunities
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
